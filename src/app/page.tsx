@@ -11,18 +11,21 @@ export default function Home() {
       </div>
       <div className="mx-10 md:mx-40 lg:mx-64">
         <p className="text-lg leading-none">
-          Hi Welcome to my website.The website is not much because iam creating
-          a 2D game with phaser and making the website 3D with react three
+          Hi Welcome to my website.The website is not much as I plan to create a
+          2D game with phaser and make the landing page 3D with react three
           fibre...so for now this is it.
         </p>
 
         <section>
           <h2 className="font-primary my-3">About</h2>
-          <p>Iam a Full-Stack Developer who loves to code.</p>
+          <p>
+            Iam a fullstack developer who loves to code.Iam currently preparing
+            for interviews and building redis from scratch as a side project
+          </p>
         </section>
         <LinksSection />
         <ProjectsSection />
-        <section>
+        <section className="mb-4">
           <h2 className="font-primary my-3">Conclusion</h2>
           <p>
             Thank You for visiting my website.
