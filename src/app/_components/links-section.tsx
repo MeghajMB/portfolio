@@ -6,7 +6,7 @@ function LinksSection() {
       <h2 className="font-primary my-3">Links</h2>
       <ul className="flex gap-4">
         <li>
-          <a href="/main-resume.pdf" target="_blank" className="underline">
+          <a href="/meghaj-resume.pdf" target="_blank" className="underline">
             Resume
           </a>
         </li>
