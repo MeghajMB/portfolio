@@ -19,8 +19,9 @@ export default function Home() {
         <section>
           <h2 className="font-primary my-3">About</h2>
           <p>
-            Iam a fullstack developer who loves to code.Iam currently preparing
-            for interviews and building redis from scratch as a side project
+            Hi,I&apos;m Meghaj, a passionate web developer with a knack for
+            creating engaging and user-friendly websites. I love exploring new
+            technologies and continuously improving my skills.
           </p>
         </section>
         <LinksSection />
